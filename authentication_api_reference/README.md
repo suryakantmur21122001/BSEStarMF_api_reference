@@ -13,7 +13,9 @@ This API establishes a **secure session between the client system (company backe
 ## API Information
 
 **API Name:** Authentication API
+
 **Method:** `getPassword`
+
 **Endpoint:**
 https://bsestarmfdemo.bseindia.com/MFOrderEntry/MFOrder.svc/Secure
 
